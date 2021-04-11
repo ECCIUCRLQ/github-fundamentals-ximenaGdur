@@ -1,0 +1,4 @@
+This is just a random text file to test out the platform. :)
+	What is this wrap thing about? I guess i'll just have to write until something actually happens here. But i can't think of what to write, hmmmm, maybe a simple c++ code could do it.
+	
+	
